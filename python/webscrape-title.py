@@ -1,7 +1,7 @@
 import re
 from urllib.request import urlopen
 
-url = "https://zaprosen.github.io/"
+url = "https://zaprosen.github.io/einfache.html"
 page = urlopen(url)
 html = page.read().decode("utf-8")
 
