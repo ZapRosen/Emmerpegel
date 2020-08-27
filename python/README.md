@@ -1,2 +1,2 @@
-# Emmerpegel in python
-Das Programm ist noch nicht fertig
+# Webkratzer Skripte in python
+Einfache Beispiele wie man Webseiten mit python ausliest
